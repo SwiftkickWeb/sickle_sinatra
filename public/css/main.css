@@ -1,0 +1,10 @@
+body {
+}
+
+.error {
+    background: #999;
+}
+
+.error h2 {
+    color: #900;
+}
